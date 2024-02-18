@@ -1,0 +1,40 @@
+{
+  "name": "Stoned Mickeys #0007",
+  "description": "Neste retrato pixelado, a figura exibe um sorriso confiante, estendendo a mão para uma folha verde vibrante, simbolizando sua conexão com a natureza e o cultivo cuidadoso de suas paixões.",
+  "image": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#05934344-a5a3-49f4-9d1c-550551c0cc27",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Stoned Mickeys"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Olds"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "Grower"
+    },
+    {
+      "trait_type": "Técnica de criação",
+      "value": "Pixel Art com Tema de Natureza"
+    }
+  ],
+  "external_url": "https://stonedmickeys.xyz/",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#05934344-a5a3-49f4-9d1c-550551c0cc27",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuLwgU7PSSDZBaVs4KzraGxKDkKMsRiAsaetFDgfqF5e",
+        "share": 100
+      }
+    ]
+  }
+}

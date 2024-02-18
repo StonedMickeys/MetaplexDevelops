@@ -1,0 +1,40 @@
+{
+  "name": "Stoned Mickeys #0003",
+  "description": "Com um sorriso que ilumina até os pixels mais escuros, é o mestre zen dos Stoned Mickeys. Ele não segue a fumaça, ele a comanda, transformando o ordinário em extraordinário, pixel por pixel.",
+  "image": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#95548581-d685-4c21-af13-ebbc2d1f50a4",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Stoned Mickeys"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Olds"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "CLASSICO"
+    },
+    {
+      "trait_type": "Técnica de criação",
+      "value": "Pixel Art"
+    }
+  ],
+  "external_url": "https://stonedmickeys.xyz/",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#95548581-d685-4c21-af13-ebbc2d1f50a4",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuLwgU7PSSDZBaVs4KzraGxKDkKMsRiAsaetFDgfqF5e",
+        "share": 100
+      }
+    ]
+  }
+}

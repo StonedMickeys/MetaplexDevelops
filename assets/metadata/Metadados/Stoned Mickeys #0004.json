@@ -1,0 +1,40 @@
+{
+  "name": "Stoned Mickeys #0004",
+  "description": "Direto do jardim da alegria, é um connoisseur da boa vida, com um charme que só se adquire no alto da sabedoria. Com um sorriso maroto e uma folha verde como troféu, ele conhece todos os atalhos para o paraíso dos pixels.",
+  "image": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#406b5e80-411f-4829-b6bc-ff0f4466e37a",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Stoned Mickeys"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Olds"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "GROWER"
+    },
+    {
+      "trait_type": "Técnica de criação",
+      "value": "Pixel Art"
+    }
+  ],
+  "external_url": "https://stonedmickeys.xyz/",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#406b5e80-411f-4829-b6bc-ff0f4466e37a",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuLwgU7PSSDZBaVs4KzraGxKDkKMsRiAsaetFDgfqF5e",
+        "share": 100
+      }
+    ]
+  }
+}

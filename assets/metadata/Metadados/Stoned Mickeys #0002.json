@@ -1,0 +1,40 @@
+{
+  "name": "Stoned Mickeys #0002",
+  "description": "Navegando pelo espaço 3D com a serenidade de quem encontrou seu oásis, nosso herói esbanja estilo, provando que a verdadeira viagem é a jornada do grower. Ele segura o verde não só na mão, mas na alma, enquanto deixa a vibe fluir.",
+  "image": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#6b860282-32f1-4ebc-b84d-f043e88b4e3a",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Stoned Mickeys"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Olds"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "MUSICA"
+    },
+    {
+      "trait_type": "Técnica de criação",
+      "value": "Modelagem 3D"
+    }
+  ],
+  "external_url": "https://stonedmickeys.xyz/",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#6b860282-32f1-4ebc-b84d-f043e88b4e3a",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuLwgU7PSSDZBaVs4KzraGxKDkKMsRiAsaetFDgfqF5e",
+        "share": 100
+      }
+    ]
+  }
+}

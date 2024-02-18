@@ -1,0 +1,40 @@
+{
+  "name": "Stoned Mickeys #0008",
+  "description": "Capturado em um momento de pura descontração, este personagem carismático exibe seu sorriso caloroso e olhos brilhantes, um testemunho de sua personalidade animada e alma livre.",
+  "image": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#d7b655a9-ab12-4900-ba1c-896ceae35c14",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Stoned Mickeys"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Olds"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "Alegria Despreocupada"
+    },
+    {
+      "trait_type": "Técnica de criação",
+      "value": "Arte 3D Texturizada"
+    }
+  ],
+  "external_url": "https://stonedmickeys.xyz/",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#d7b655a9-ab12-4900-ba1c-896ceae35c14",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuLwgU7PSSDZBaVs4KzraGxKDkKMsRiAsaetFDgfqF5e",
+        "share": 100
+      }
+    ]
+  }
+}

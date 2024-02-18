@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stoned-Mickeys-NFTs/static/css/main.e6c13ad2.css",
+    "main.js": "/Stoned-Mickeys-NFTs/static/js/main.a1b4a212.js",
+    "index.html": "/Stoned-Mickeys-NFTs/index.html",
+    "main.e6c13ad2.css.map": "/Stoned-Mickeys-NFTs/static/css/main.e6c13ad2.css.map",
+    "main.a1b4a212.js.map": "/Stoned-Mickeys-NFTs/static/js/main.a1b4a212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a1b4a212.js"
+  ]
+}

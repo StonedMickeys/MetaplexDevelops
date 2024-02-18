@@ -1,0 +1,40 @@
+{
+  "name": "Stoned Mickeys #0006",
+  "description": "Com um estilo despojado e uma vibe descontraída, esta figura estilizada captura o espírito de um entusiasta da noite, trazendo uma aura de calma com seu sorriso suave e os vapores dançantes ao seu redor.",
+  "image": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#9ff698e1-8a93-4067-ad73-8f3662079f91",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Stoned Mickeys"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Olds"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "Casual"
+    },
+    {
+      "trait_type": "Técnica de criação",
+      "value": "Pixel Art"
+    }
+  ],
+  "external_url": "https://stonedmickeys.xyz/",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://v2.akord.com/public/vaults/active/Pi0cAuMwz23NXxzGUl6fKOoiu1cgUEoDOudGSMpVapM/gallery/folders/d9bd0e16-4c9e-4680-9b10-42b0669a1e34#9ff698e1-8a93-4067-ad73-8f3662079f91",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuLwgU7PSSDZBaVs4KzraGxKDkKMsRiAsaetFDgfqF5e",
+        "share": 100
+      }
+    ]
+  }
+}
